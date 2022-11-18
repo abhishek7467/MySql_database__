@@ -1,0 +1,8 @@
+Name,Age,Sex,dob,fromcity,ToCity,Ticket,Fair
+Kumar,26,M,2006-05-30,Vanarshi,Bareilly,1st_Class,523.12
+Ridhi,25,F,2000-08-13,Barabanki,Bly,2nd_Class,360
+Jaiswal,23,F,2000-05-30,TanakPur,Haridwar,3_Class,7230
+Neha,24,F,2000-03-30,TanakPur,Haridwar,1_Class,900
+Swati,21,F,2000-08-22,Sahajanpur,Bareilly,2_Class,400
+Sarthi,22,M,2000-04-19,Haridwar,Dehli,2_Class,3000
+Ankit,19,M,2000-02-21,Mahakal,Janakpuri,3_Class,2030
